@@ -33,6 +33,7 @@ A curated list of awesome Malaysian webservices and resources.
 * [Luno](https://www.luno.com/en/api) - The Luno API makes Bitcoin and Ethereum available to anyone.
 * [Maybank Sandbox](https://maybanksandbox.com/#/) - Real Banking APIs for developers to connect and make use of existing banking functions.
 * [Prudential Assurance](http://www2.prudential.com.my/fundpriceV2/daily.php) - Latest Fund Price.
+* [OCBC API Store](https://api.ocbc.com/store/api_products) - Power your apps with OCBC APIs.
 
 ## Others
 
