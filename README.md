@@ -45,4 +45,4 @@ Your contributions are always welcome!
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me.
+All datasets and API endpoints are expected to be public domain. If you have any question about this opinionated list, do not hesitate to contact me.
