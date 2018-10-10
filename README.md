@@ -30,7 +30,7 @@ A curated list of awesome Malaysian webservices and resources.
 *Finance.*
 
 * [Gold Prices](https://uniservices1.uob.com.my/jsp/finance/fin_gia.jsp) - Daily gold price.
-
+* [Luno](https://www.luno.com/en/api) - The Luno API makes Bitcoin and Ethereum available to anyone.
 
 ## Others
 
