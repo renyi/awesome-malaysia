@@ -34,6 +34,7 @@ A curated list of awesome Malaysian webservices and resources.
 * [Maybank Sandbox](https://maybanksandbox.com/#/) - Real Banking APIs for developers to connect and make use of existing banking functions.
 * [Prudential Assurance](http://www2.prudential.com.my/fundpriceV2/daily.php) - Latest Fund Price.
 * [OCBC API Store](https://api.ocbc.com/store/api_products) - Power your apps with OCBC APIs.
+* [TransferWise](https://api-docs.transferwise.com/#transferwise-api) - The real exchange rate.
 
 ## Others
 
