@@ -35,12 +35,13 @@ A curated list of awesome Malaysian webservices and resources.
 * [Prudential Assurance](http://www2.prudential.com.my/fundpriceV2/daily.php) - Latest Fund Price.
 * [OCBC API Store](https://api.ocbc.com/store/api_products) - Power your apps with OCBC APIs.
 * [TransferWise](https://api-docs.transferwise.com/#transferwise-api) - The real exchange rate.
+* [Bank Negara Malaysia](https://github.com/BankNegaraMY) - Official Bank Negara Malaysia repository to host Open API specifications for the financial and insurance industry in Malaysia.
 
 ## Others
 
 *Others.*
 
-* [billplz](https://www.billplz.com/api) - Fair payment services.
+* [Billplz](https://www.billplz.com/api) - Fair payment services.
 
 
 # Contributing
