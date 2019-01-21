@@ -24,6 +24,8 @@ A curated list of awesome Malaysian webservices and resources.
 *Government.*
 
 * [APIMS](http://apims.doe.gov.my/public_v2/api_table.html) - Air Pollutant Index of Malaysia.
+* [Meteorology Service API](https://api.met.gov.my/) - Meterological Service API, need registration
+* [data.gov.my](http://www.data.gov.my/) - Malaysian Government Open Data Portal
 
 ## Finance
 
