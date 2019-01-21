@@ -44,6 +44,8 @@ A curated list of awesome Malaysian webservices and resources.
 *Others.*
 
 * [Billplz](https://www.billplz.com/api) - Fair payment services.
+* [Malaya](https://malaya.readthedocs.io/en/latest/index.html) - Malay Language NLP model
+* 
 
 
 # Contributing
