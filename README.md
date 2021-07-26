@@ -31,7 +31,7 @@ A curated list of awesome Malaysian webservices and resources.
 
 *Finance.*
 
-* [Gold Prices](https://uniservices1.uob.com.my/jsp/finance/fin_gia.jsp) - Daily gold price.
+* [Gold Prices](https://www.uob.com.my/online-rates/gold-bullion-prices.page) - Daily gold price.
 * [Luno](https://www.luno.com/en/api) - The Luno API makes Bitcoin and Ethereum available to anyone.
 * [Maybank Sandbox](https://maybanksandbox.com/#/) - Real Banking APIs for developers to connect and make use of existing banking functions.
 * [Prudential Assurance](http://www2.prudential.com.my/fundpriceV2/daily.php) - Latest Fund Price.
