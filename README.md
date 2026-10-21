@@ -18,6 +18,7 @@ A curated list of awesome Malaysian webservices and resources.
 *General.*
 
 * [postcode.my](https://postcode.my/) - Malaysia postcode search.
+* [NegaraKu.md](https://negaraku.md) - Open-source, AI-friendly knowledge base about Malaysia (business, law, culture, living), cited Markdown in 13 languages.
 
 ## Government
 
